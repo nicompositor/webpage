@@ -1,4 +1,4 @@
-<!doctype html>
+[<!doctype html>
 <html lang="en" class="scroll-smooth">
 <head>
   <meta charset="utf-8" />
@@ -68,7 +68,7 @@
 
           <p>Complementing his professional trajectory, he was awarded a scholarship for the Master’s in Film and Video Game Scoring at the Film Scoring Academy of Europe in Sofia, Bulgaria.</p>
         </div>
-      </article>
+      </article>](https://github.com/nicompositor/webpage.git)
     </section>
   </main>
 </body>
